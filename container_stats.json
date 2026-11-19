@@ -1,0 +1,278 @@
+{
+  "7246fd4907138001f6ad4967e27467e7edee95df302acefcf04e6182ec551d4f": {
+    "id": "7246fd4907138001f6ad4967e27467e7edee95df302acefcf04e6182ec551d4f",
+    "name": "cgroup-throttled-worker",
+    "status": "running",
+    "cpu_stats": {
+      "per_process": {
+        "CPU_1": {
+          "total_usage": 296900,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_2": {
+          "total_usage": 0,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_3": {
+          "total_usage": 26751695500,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_4": {
+          "total_usage": 1502400,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_5": {
+          "total_usage": 16378500,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_6": {
+          "total_usage": 0,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_7": {
+          "total_usage": 26911200,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_8": {
+          "total_usage": 0,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_9": {
+          "total_usage": 727700,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_10": {
+          "total_usage": 0,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_11": {
+          "total_usage": 15691218100,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        },
+        "CPU_12": {
+          "total_usage": 0,
+          "usage_in_kernelmode": 30000000,
+          "usage_in_usermode": 42680000000
+        }
+      },
+      "total_usage": 42488730300,
+      "usage_in_kernelmode": 30000000,
+      "usage_in_usermode": 42680000000,
+      "throttling_data": {
+        "periods": 850,
+        "throttled_periods": 848,
+        "throttled_time": 42303192600,
+        "throttled_rate": 99.8
+      }
+    },
+    "memory_stats": {
+      "total_usage": 913408,
+      "max_usage": 11816960,
+      "limit": 268435456,
+      "usage_mb": 0.87,
+      "max_usage_mb": 11.27,
+      "limit_mb": 256.0
+    },
+    "network_stats": {
+      "rx_bytes": 872,
+      "tx_bytes": 126,
+      "rx_packets": 10,
+      "tx_packets": 3
+    }
+  },
+  "7dc2ad717635c3a5f59e8426e90275a43c32307aba68d463dd7a3ec8ab99d7f3": {
+    "id": "7dc2ad717635c3a5f59e8426e90275a43c32307aba68d463dd7a3ec8ab99d7f3",
+    "name": "test-redis",
+    "status": "running",
+    "cpu_stats": {
+      "per_process": {
+        "CPU_1": {
+          "total_usage": 4717396800,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_2": {
+          "total_usage": 429645500,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_3": {
+          "total_usage": 4128156500,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_4": {
+          "total_usage": 628011000,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_5": {
+          "total_usage": 5355769900,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_6": {
+          "total_usage": 392864400,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_7": {
+          "total_usage": 4123197100,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_8": {
+          "total_usage": 1187404300,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_9": {
+          "total_usage": 5058396800,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_10": {
+          "total_usage": 663893000,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_11": {
+          "total_usage": 4918282700,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        },
+        "CPU_12": {
+          "total_usage": 463187900,
+          "usage_in_kernelmode": 11590000000,
+          "usage_in_usermode": 17770000000
+        }
+      },
+      "total_usage": 32066205900,
+      "usage_in_kernelmode": 11590000000,
+      "usage_in_usermode": 17770000000,
+      "throttling_data": {
+        "periods": 0,
+        "throttled_periods": 0,
+        "throttled_time": 0,
+        "throttled_rate": 0.0
+      }
+    },
+    "memory_stats": {
+      "total_usage": 13660160,
+      "max_usage": 21069824,
+      "limit": 8165445632,
+      "usage_mb": 13.03,
+      "max_usage_mb": 20.09,
+      "limit_mb": 7787.18
+    },
+    "network_stats": {
+      "rx_bytes": 998,
+      "tx_bytes": 126,
+      "rx_packets": 13,
+      "tx_packets": 3
+    }
+  },
+  "f6c9824247590f560d130638afaef8d2eec5790b2d96512e71a611603fcf3501": {
+    "id": "f6c9824247590f560d130638afaef8d2eec5790b2d96512e71a611603fcf3501",
+    "name": "test-nginx",
+    "status": "running",
+    "cpu_stats": {
+      "per_process": {
+        "CPU_1": {
+          "total_usage": 1232700,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_2": {
+          "total_usage": 1270900,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_3": {
+          "total_usage": 5836800,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_4": {
+          "total_usage": 3307700,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_5": {
+          "total_usage": 10091500,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_6": {
+          "total_usage": 1630300,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_7": {
+          "total_usage": 4220900,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_8": {
+          "total_usage": 1422500,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_9": {
+          "total_usage": 7172000,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_10": {
+          "total_usage": 25844600,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_11": {
+          "total_usage": 3368800,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        },
+        "CPU_12": {
+          "total_usage": 4072000,
+          "usage_in_kernelmode": 20000000,
+          "usage_in_usermode": 30000000
+        }
+      },
+      "total_usage": 69470700,
+      "usage_in_kernelmode": 20000000,
+      "usage_in_usermode": 30000000,
+      "throttling_data": {
+        "periods": 0,
+        "throttled_periods": 0,
+        "throttled_time": 0,
+        "throttled_rate": 0.0
+      }
+    },
+    "memory_stats": {
+      "total_usage": 10842112,
+      "max_usage": 14512128,
+      "limit": 8165445632,
+      "usage_mb": 10.34,
+      "max_usage_mb": 13.84,
+      "limit_mb": 7787.18
+    },
+    "network_stats": {
+      "rx_bytes": 1950,
+      "tx_bytes": 126,
+      "rx_packets": 23,
+      "tx_packets": 3
+    }
+  }
+}
