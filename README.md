@@ -1,5 +1,12 @@
 # 🐳 DockerTool: Container Telemetry & Kernel Cgroup Provisioning Engine
 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
+
 > A high-performance container observability and provisioning platform built with **Python (Flask & Docker SDK)** and a real-time **React 18 + Vite** dashboard streaming sliding-window telemetry via **Chart.js**.
 
 ![DockerTool Telemetry Dashboard](screenshots/dashboard_full.png)
